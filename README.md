@@ -14,5 +14,5 @@ This project aims to predict the popularity of a news Topic coming from a specif
 3. Tensorflow,Keras
 
 # Project Description
-1.
+The dataset we are using in this project 
 
